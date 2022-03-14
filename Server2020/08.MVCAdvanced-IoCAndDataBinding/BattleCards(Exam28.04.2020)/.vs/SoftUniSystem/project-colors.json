@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45de48ad-97b4-4ced-b7ee-1c714d7ff464": {
+      "ProjectGuid": "45de48ad-97b4-4ced-b7ee-1c714d7ff464",
+      "DisplayName": "MyFirstMvcApp",
+      "ColorIndex": 0
+    },
+    "2b4ae45f-acce-4d6a-94a0-d9c1cd45b086": {
+      "ProjectGuid": "2b4ae45f-acce-4d6a-94a0-d9c1cd45b086",
+      "DisplayName": "SUS.HTTP",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e616380c-8e2a-475e-baac-468488b871f9": {
+      "ProjectGuid": "e616380c-8e2a-475e-baac-468488b871f9",
+      "DisplayName": "BattleCards",
+      "ColorIndex": 2
+    },
+    "64e627ac-2b0d-4d10-b768-f256092cff4f": {
+      "ProjectGuid": "64e627ac-2b0d-4d10-b768-f256092cff4f",
+      "DisplayName": "SUS.HTTP",
+      "ColorIndex": 3
+    },
+    "021787b0-cc41-4eba-8359-2419edb85df2": {
+      "ProjectGuid": "021787b0-cc41-4eba-8359-2419edb85df2",
+      "DisplayName": "SUS.MvcFramework",
+      "ColorIndex": 4
+    },
+    "c2d7ecd9-8028-45ea-86bc-99b4aefd29fd": {
+      "ProjectGuid": "c2d7ecd9-8028-45ea-86bc-99b4aefd29fd",
+      "DisplayName": "SUS.MvcFramework.Tests",
+      "ColorIndex": 5
+    },
+    "6b1ec5ff-ed92-45be-957c-6e4def1ada77": {
+      "ProjectGuid": "6b1ec5ff-ed92-45be-957c-6e4def1ada77",
+      "DisplayName": "BattleCards",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

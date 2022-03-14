@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b1ec5ff-ed92-45be-957c-6e4def1ada77": {
+      "ProjectGuid": "6b1ec5ff-ed92-45be-957c-6e4def1ada77",
+      "DisplayName": "BattleCards",
+      "ColorIndex": 0
+    },
+    "021787b0-cc41-4eba-8359-2419edb85df2": {
+      "ProjectGuid": "021787b0-cc41-4eba-8359-2419edb85df2",
+      "DisplayName": "SUS.MvcFramework",
+      "ColorIndex": 1
+    },
+    "c2d7ecd9-8028-45ea-86bc-99b4aefd29fd": {
+      "ProjectGuid": "c2d7ecd9-8028-45ea-86bc-99b4aefd29fd",
+      "DisplayName": "SUS.MvcFramework.Tests",
+      "ColorIndex": 2
+    },
+    "64e627ac-2b0d-4d10-b768-f256092cff4f": {
+      "ProjectGuid": "64e627ac-2b0d-4d10-b768-f256092cff4f",
+      "DisplayName": "SUS.HTTP",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
